@@ -15,7 +15,15 @@ To install the Jelly compiler using Homebrew, follow these steps:
 
 2. **Install Jelly:**
     ```sh
-    brew install jelly
+    brew install jellycuts/formulae/jelly
     ```
 
+# Tutorial 
+
 If you prefer a more detailed tutorial on how to install Jelly, please visit [this installation guide](https://www.jellycuts.com/how-to-install-jelly-cli-on-macos-using-homebrew/).
+
+
+# How does this work? 
+
+This custom homebrew formula simply downloads the compiler from [Open-Jellycore](https://github.com/OpenJelly/Open-Jellycore/releases/)
+
